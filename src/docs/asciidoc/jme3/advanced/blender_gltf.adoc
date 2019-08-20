@@ -148,9 +148,9 @@ AnimChannel animChannel = animControl.createChannel();
 animChannel.setAnim("Run");
 ----
 
-If you import the model with the SDK, you can explore the scene graph using the Scene Explorer. See <<sdk/scene_explorer>> and <<jme3/advanced/traverse_scenegraph>> for more details.
+If you import the model with the SDK, you can explore the scene graph using the Scene Explorer. See <<sdk/scene_explorer#,Scene Explorer>> and <<jme3/advanced/traverse_scenegraph#,Traverse Scenegraph>> for more details.
 
-See <<jme3/advanced/animation>> for further details on using animations in your code.
+See <<jme3/advanced/animation#,Animation>> for further details on using animations in your code.
 
 == Additional Reading
 
